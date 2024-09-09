@@ -1,1 +1,1 @@
-print (New Hello Git changes)
+print (Hello GitHUb
