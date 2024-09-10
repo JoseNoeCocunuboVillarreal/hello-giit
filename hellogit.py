@@ -1,1 +1,1 @@
-print (Hello GitHUb
+print (Hello GitHub)
